@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZCUUK11ljgvCrSAazr13Qak9zooV0d2hbe7acTfY2ILxMtTeDVu7bopDQmREs8U7colpW1QUb/cGWycOzSZqdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JockHartvigAndersen-\\Source\\Repos\\ProgrammersPixiBooks-DotNet6\\src\\PPB.WinForms.Vb\\PPB.WinForms.Vb.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JockHartvigAndersen-\\.nuget\\packages\\communitytoolkit.mvvm\\7.1.2\\communitytoolkit.mvvm.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
