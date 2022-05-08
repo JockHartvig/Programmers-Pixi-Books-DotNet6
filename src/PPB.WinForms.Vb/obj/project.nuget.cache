@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZCUUK11ljgvCrSAazr13Qak9zooV0d2hbe7acTfY2ILxMtTeDVu7bopDQmREs8U7colpW1QUb/cGWycOzSZqdw==",
+  "dgSpecHash": "unop+BYAdKudWS+xmx6anKCynXKdXLjtg139mGJaFbXQGeoOe/iEvuVE0V/E+fQvtsSVgRtvUp/BvYG6XSe2og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JockHartvigAndersen-\\Source\\Repos\\ProgrammersPixiBooks-DotNet6\\src\\PPB.WinForms.Vb\\PPB.WinForms.Vb.vbproj",
+  "projectFilePath": "C:\\Users\\JockHartvigAndersen-\\source\\repos\\JockHartvig\\Programmers-Pixi-Books-DotNet6\\src\\PPB.WinForms.Vb\\PPB.WinForms.Vb.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\JockHartvigAndersen-\\.nuget\\packages\\communitytoolkit.mvvm\\7.1.2\\communitytoolkit.mvvm.7.1.2.nupkg.sha512"
   ],

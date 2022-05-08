@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vVkvuo/FoYeYsgnpS+WEYe13cfMVtxz3lRz3NAD7iy5c5JjSZWJHvvrwPzmkWAXkJ8y74g+PdYcPKTBWZINgvg==",
+  "dgSpecHash": "Ym3sxCGSI+AVjcz5rDU5T2WCUjCGlklurLGinB97DOgm6e30UkSWzGsc0Nr1RUm/eLqiW2tzcJ4+mw3aOfq48w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JockHartvigAndersen-\\Source\\Repos\\ProgrammersPixiBooks-DotNet6\\src\\PPB.ViewModels.Cs\\PPB.ViewModels.Cs.csproj",
+  "projectFilePath": "C:\\Users\\JockHartvigAndersen-\\source\\repos\\JockHartvig\\Programmers-Pixi-Books-DotNet6\\src\\PPB.ViewModels.Cs\\PPB.ViewModels.Cs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JockHartvigAndersen-\\.nuget\\packages\\communitytoolkit.mvvm\\7.1.2\\communitytoolkit.mvvm.7.1.2.nupkg.sha512"
   ],
