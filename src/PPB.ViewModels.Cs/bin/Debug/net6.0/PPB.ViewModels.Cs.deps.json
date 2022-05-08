@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "PPB.ViewModels.CS/1.0.0": {
+      "PPB.ViewModels.Cs/1.0.0": {
         "dependencies": {
           "CommunityToolkit.Mvvm": "7.1.2"
         },
         "runtime": {
-          "PPB.ViewModels.CS.dll": {}
+          "PPB.ViewModels.Cs.dll": {}
         }
       },
       "CommunityToolkit.Mvvm/7.1.2": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "PPB.ViewModels.CS/1.0.0": {
+    "PPB.ViewModels.Cs/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
